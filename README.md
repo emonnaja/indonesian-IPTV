@@ -6,4 +6,4 @@ copy this link and paste it into your Tivimate or OTT player
 https://raw.githubusercontent.com/emonnaja/indonesian-IPTV/main/index.m3u
 (Make sure your device supports DRM content).
 
-please do not sell.
+please do not sell this content.
