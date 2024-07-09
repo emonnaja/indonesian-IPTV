@@ -13,6 +13,6 @@ https://livetv.pnontonfilm.biz.id/live/playlist/indonesia.m3u
 
 this information of [DRM Content](https://support.vidio.com/support/solutions/articles/43000656969-apa-itu-drm-)
 
-* Free live streams from official websites such as [Trans TV Live](https://www.transtv.co.id/live), [Klik TVRI](https://klik.tvri.go.id/), [RodjaTV Live](https://rodja.tv/), [RRI NET](https://rri.co.id/stream/video), [NusantaraTV Live](https://nusantaratv.com/live), and [DENS.TV](https://www.dens.tv), [vidio](https://vidio.com/live), [VISION+](https://www.visionplus.id/webclient/#/live), and [IndihomeTV](https://www.indihometv.com/livetv).
+* Free live streams from official websites such as [Trans TV Live](https://www.transtv.co.id/live), [Klik TVRI](https://klik.tvri.go.id/), [RodjaTV Live](https://rodja.tv/), [RRI NET](https://rri.co.id/stream/video), [NusantaraTV Live](https://nusantaratv.com/live), and [DENS.TV](https://www.dens.tv), [VIDIO.com](https://vidio.com/live), [VISION+](https://www.visionplus.id/webclient/#/live), and [Indihome TV](https://www.indihometv.com/livetv).
 
 For your convenience, please do not sell the content or code for personal gain.
