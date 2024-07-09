@@ -11,7 +11,6 @@ or
 https://livetv.pnontonfilm.biz.id/live/playlist/indonesia.m3u
 ```
 
-this information of DRM Content
-https://support.vidio.com/support/solutions/articles/43000656969-apa-itu-drm-
+this information of [DRM Content](https://support.vidio.com/support/solutions/articles/43000656969-apa-itu-drm-)
 
 For your convenience, please do not sell the content or code for personal gain.
