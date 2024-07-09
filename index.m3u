@@ -6,8 +6,8 @@
 #EXTM3U url-tvg="https://github.com/AqFad2811/epg/raw/main/epg.xml" m3uautoload=1 cache=500 deinterlace=1 refresh="3600"
 
 
-# Beberpa channel tv menggunakan DRM, mungkin channel tidak dapat di play (biasanya stuck loading) karena tidak mendukung DRM.
-# Ini adalah playlist streaming yang dipilih untuk aplikasi tivimate saja, TIDAK UNTUK DIPERJUALBELIKAN.
+# Some tv channels use DRM, maybe the channel cannot be played (usually stuck loading) because it does not support DRM.
+# This is a streaming playlist selected for the tivimate app only, NOT FOR SALE.
 # by justemonn
 
 #local (ID)
