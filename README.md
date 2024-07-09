@@ -1,4 +1,4 @@
-# indonesian-IPTV
+# Indonesian-IPTV
 
 You can watch livetv from Indonesian channels or premium tv with Indonesian subtitle without having to subscribe and pay anything.
 
