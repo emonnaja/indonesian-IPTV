@@ -81,20 +81,6 @@ https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-chno="016" tvg-name="OKTV.id" tvg-logo="https://i.postimg.cc/pV4x8v7B/oktv.png" group-title="LOCAL",OKTV
-https://cempedak-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
-
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-chno="017" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/2b/Vision_Prime_2020.png" group-title="LOCAL", Vision Prime
-https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-
-
 #EXTINF:-1 tvg-chno="015" tvg-id="MAGNA TV" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/indonesianatv.png?raw=true" group-title="LOCAL",Indonesiana.TV
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index.m3u8
 
@@ -445,5 +431,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-chno="603" tvg-logo="https://play-lh.googleusercontent.com/qgav7EcQEG6ftRr556wadC2v_tpPrFDmAAY0Q3sc0AbgXgE3dfwIihCqNXLaLMXXGi0" group-title="Partner",VISION+ LIVE
+#EXTINF:-1 tvg-chno="603" tvg-logo="https://play-lh.googleusercontent.com/qgav7EcQEG6ftRr556wadC2v_tpPrFDmAAY0Q3sc0AbgXgE3dfwIihCqNXLaLMXXGi0" group-title="UEFA EURO 2024",VISION+ LIVE
 https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
+
+
