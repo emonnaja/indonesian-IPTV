@@ -8,3 +8,5 @@ https://raw.githubusercontent.com/emonnaja/indonesian-IPTV/main/index.m3u
 
 this information of DRM Content
 https://support.vidio.com/support/solutions/articles/43000656969-apa-itu-drm-
+
+For your convenience, please do not sell the content or code on this site for personal gain.
