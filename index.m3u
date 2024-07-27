@@ -6,8 +6,8 @@
 #EXTM3U url-tvg="https://github.com/AqFad2811/epg/raw/main/epg.xml" m3uautoload=1 cache=500 deinterlace=1 refresh="3600"
 
 
-# Some tv channels use DRM, maybe the channel cannot be played (usually stuck loading) because it does not support DRM.
-# This is a streaming playlist selected for the tivimate app only, NOT FOR SALE.
+# Some tv channels use DRM, maybe the channel cannot be played (usually stuck loading) because your device does not support DRM.
+# This is a streaming playlist selected for tivimate app only, NOT FOR SALE.
 # by justemonn
 
 #local (ID)
@@ -91,11 +91,9 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-chno="101" channel-id="tvOne" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Ftvone.jfif?alt=media&token=8c2324ed-dc6d-48e0-b31f-e98fef713a9f" group-title="News",TVONE
-https://cempedak-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
+https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=lite&chname=tvOne
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -126,10 +124,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/Channel
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7cafff42-3569-1a1e-d668-c36036b1c848)/manifest.mpd
 
 
-#EXTVLCOPT:http-referrer=https://maxstream.tv
 #EXTINF:-1 tvg-chno="107" tvg-id="KOMPAS TV" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F11-NEWS%2FKompas%20TV%20SD-FirstMedia-Chl-15.jpg&w=1920&q=100" group-title="News",Kompas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(287f9964-96c8-b250-269d-fb95a39b3aef)/manifest.mpd
+https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -160,7 +157,7 @@ https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687503244_tvchannels_v1.jpg" group-title="SPORTS",FIGHT SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
-https://op-group2-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&userid=lite&chname=FIGHT_SPORTS_HD
+https://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&userid=lite&chname=FIGHT_SPORTS_HD
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -356,22 +353,10 @@ https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 
-#EXTVLCOPT:http-referrer=https://maxstream.tv
-#EXTINF:-1 tvg-chno="412"  tvg-id="Insert" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_i9maoq8a/banner.png" group-title="Entertainment",Insert
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4c533136-35ec-f30f-9cc0-46119aac9c12)/manifest.mpd
-
-
-#EXTVLCOPT:http-referrer=https://maxstream.tv
-#EXTINF:-1 tvg-chno="413"  tvg-id="Insert" tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_n1i58z12/banner.png" group-title="Entertainment",Bioskop Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41d51f9f-8855-e625-012f-304a1f0eb538)/manifest.mpd
-
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-chno="103" group-title="Entertainment" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
+#EXTINF:-1 tvg-chno="412" group-title="Entertainment" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nhk_150.png",NHK World Premium
 https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
 
 
@@ -429,9 +414,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 
 
-# UEFA EURO 2024 GERMANY
+# VISION+ LIVE
 
-#EXTINF:-1 tvg-chno="603" tvg-logo="https://play-lh.googleusercontent.com/qgav7EcQEG6ftRr556wadC2v_tpPrFDmAAY0Q3sc0AbgXgE3dfwIihCqNXLaLMXXGi0" group-title="UEFA EURO 2024",VISION+ LIVE
+#EXTINF:-1 tvg-chno="700" tvg-logo="https://play-lh.googleusercontent.com/qgav7EcQEG6ftRr556wadC2v_tpPrFDmAAY0Q3sc0AbgXgE3dfwIihCqNXLaLMXXGi0" group-title="UEFA EURO 2024",VISION+ LIVE
 https://dsgtq5sngxkde.cloudfront.net/live/eds/VplusLiveRplus/sa_dash/VplusLiveRplus.mpd
-
-
