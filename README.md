@@ -2,7 +2,7 @@
 
 You can watch livetv from Indonesian channels or premium tv with Indonesian subtitle without having to subscribe and pay anything.
 
-copy this link and paste it into your Tivimate or to your video player (Make sure your device supports [DRM content](https://support.vidio.com/support/solutions/articles/43000656969-apa-itu-drm-)) :
+copy this link and paste it into your Tivimate, VLC, or to your video player (Make sure your device supports [DRM content](https://support.vidio.com/support/solutions/articles/43000656969-apa-itu-drm-)) :
 ```
 https://raw.githubusercontent.com/emonnaja/indonesian-IPTV/main/index.m3u
 ```
