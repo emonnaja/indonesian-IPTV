@@ -9,4 +9,4 @@ https://raw.githubusercontent.com/emonnaja/indonesian-IPTV/main/index.m3u
 
 * Free live streams from websites such as [Trans TV Live](https://www.transtv.co.id/live), [DENS TV](https://www.dens.tv), [VIDIO](https://vidio.com/live), [VISION+](https://www.visionplus.id/webclient/#/live), and [Indihome TV](https://www.indihometv.com/livetv).
 
-For your convenience, please do not sell the content or code for personal gain.
+For mutual convenience, please do not sell the content or code for personal gain.
