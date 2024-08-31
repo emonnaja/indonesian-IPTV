@@ -17,8 +17,7 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 
 #EXTINF:-1 tvg-chno="002" tvg-id="INDOSIAR" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Findosiar.jfif?alt=media&token=3ee58305-4fde-490c-8470-742c5652a957" group-title="LOCAL",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
-https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138#checkedby:iptvlister.com
 
 
 #EXTINF:-1 tvg-chno="005" tvg-id="SCTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fsctv.jfif?alt=media&token=76a3b0df-822f-498e-b80c-0137449b8374" group-title="LOCAL",SCTV
@@ -80,6 +79,10 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 
 
 #EXTINF:-1 tvg-chno="017" tvg-id="Garuda.tv" tvg-logo="https://aksara.biz.id/wp-content/uploads/2023/09/sikopi.webp" group-title="LOCAL",Garuda TV
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="018" tvg-id="MOJI.tv" tvg-logo="https://thumbor.prod.vidiocdn.com/v5PaORcp4FTzU8QX-yuZmh-qCpk=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/206/moji-cover-7acc96.jpg" group-title="LOCAL",MOJI
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
 #NEWS
@@ -283,6 +286,10 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 #EXTINF:-1 tvg-chno="311" tvg-name="HBO.id" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FHBO.png?alt=media&token=16d8d5eb-ccae-45f7-ac96-d4da08a11b13" group-title="MOVIES",HBO
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/197972#checkedby:iptvlister.com
+
+
+#EXTINF:-1 tvg-chno="312" tvg-name="HboSignature.id" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FHBO.png?alt=media&token=16d8d5eb-ccae-45f7-ac96-d4da08a11b13" group-title="MOVIES",HBO Signature
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/221948#checkedby:iptvlister.com
 
 
 #entertainment
