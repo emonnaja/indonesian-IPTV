@@ -14,3 +14,7 @@ https://raw.githubusercontent.com/emonnaja/indonesian-IPTV/main/index.m3u
 * For mutual convenience, please do not to sell or rebroadcast what is aired either directly or indirectly without the permission of the content provider and the television channel concerned.
 
 * I cannot guarantee that all available television channels will be accessible at all times and do not guarantee that the broadcast sources provided are safe from malware threats that can damage your device.
+
+### Legal
+
+All trademarks and copyrights are protected by perspective owners. I as the owner of this repository am not responsible for the content hosted by third parties and am not involved in the download, upload and rebroadcast requests. We only post streaming links that are available on the internet. If you feel any content violates intellectual property laws and you hold the copyright of the content, please make a pull request or open an issue. After which, the content will be removed immediately.
