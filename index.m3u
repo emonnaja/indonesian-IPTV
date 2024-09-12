@@ -49,17 +49,19 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-chno="012" tvg-name="RCTI" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frcti.jfif?alt=media&token=7c17a756-2f1b-45b8-abb4-f8407c0539eb" group-title="LOCAL",RCTI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://cempedak-cdn-fly.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-chno="013" tvg-name="MNC TV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fmnctv.jfif?alt=media&token=7483abbd-d27e-41e8-b387-9f8e3a8aadaf" group-title="LOCAL",MNCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://cempedak-cdn-fly.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 
@@ -88,10 +90,11 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550#checkedby:iptvlist
 
 #NEWS
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-chno="100" tvg-name="iNews" tvg-logo="https://hometv.pw/logo/lokal/inews.png" group-title="News",iNEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://cempedak-cdn-fly.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 
@@ -112,7 +115,7 @@ https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/id/playlist.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-chno="105" tvg-name="CNA" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fcna.jfif?alt=media&token=82e933ca-3594-46ff-8811-c2c045f56658" group-title="News",CNA
@@ -130,10 +133,11 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7cafff42-3569
 https://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&userid=lite&chname=Kompas_TV
 
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-chno="108" tvg-name="IDX" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FIDX.png?alt=media&token=f0745624-857e-4748-aba5-931097e8ffcb" group-title="News",IDX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
 https://cempedak-cdn-fly.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 
