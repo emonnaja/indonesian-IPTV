@@ -39,10 +39,9 @@ https://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&userid=li
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET.
 
 
-#EXTVLCOPT:http-referrer=https://maxstream.tv
 #EXTINF:-1 tvg-chno="008" tvg-id="RTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Frtv.jpg?alt=media&token=f446a58b-c091-4c72-bc17-aa26f2ebb965" group-title="LOCAL",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c-4700-9c8e-59367ef275cb)/manifest.mpd
+https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
