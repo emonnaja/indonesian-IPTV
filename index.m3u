@@ -318,7 +318,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.m
 #EXTINF:-1 tvg-chno="311" tvg-name="HBO.id" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FHBO.png?alt=media&token=16d8d5eb-ccae-45f7-ac96-d4da08a11b13" group-title="MOVIES",HBO
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/197972#checkedby:iptvlister.com
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?
 #EXTINF:-1 tvg-chno="312" tvg-name="HboSignature.id" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FHBO-Signature.png?alt=media&token=e0fe5f81-c2f0-4dc5-bd30-884829eef91f" group-title="MOVIES",HBO Signature
 https://s3.tebi.io/jakarta/live/eds/HBOSignature/sf_dash/HBOSignature.mpd
 
