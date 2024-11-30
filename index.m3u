@@ -94,7 +94,7 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
 #EXTINF:-1 tvg-chno="018" tvg-id="MOJI.tv" tvg-logo="https://thumbor.prod.vidiocdn.com/v5PaORcp4FTzU8QX-yuZmh-qCpk=/784x441/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/206/moji-cover-7acc96.jpg" group-title="LOCAL",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Safari/537.36 CrKey/1.54.250320
-http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
 #NEWS
 
