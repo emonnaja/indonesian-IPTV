@@ -316,13 +316,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&userid=l
 https://d1abp075u76pbq.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
 
-#EXTINF:-1 tvg-chno="311" tvg-name="Cinemax" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fcinemax.png?alt=media&token=a9dce293-b185-4281-bf18-259926106ac6" group-title="MOVIES",Cinemax
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
-
-
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/ #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/ #EXTINF:-1 tvg-id="HBO HD" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",HBO (Transcorp) https://cdnjkt4.transvision.co.id:1004/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
-
-
 #entertainment
 
 
