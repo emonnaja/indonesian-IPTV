@@ -4,8 +4,10 @@ You can watch livetv from Indonesian channels or premium tv with Indonesian subt
 
 copy this link and paste it into your OTT Player, or to your video player (Make sure your device supports [DRM content](https://support.vidio.com/support/solutions/articles/43000656969-apa-itu-drm-)) :
 ```
-https://raw.githubusercontent.com/emonnaja/indonesian-IPTV/main/index.m3u
+https://streamo.web.id/api/1/get/live/tv/playlist?format=m3u
 ```
+> [!IMPORTANT]  
+> This playlist url currently in development, you cannot stream some channels now.
 
 ### Notes
 
