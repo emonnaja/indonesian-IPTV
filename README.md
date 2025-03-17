@@ -6,6 +6,10 @@ copy this link and paste it into your OTT Player, or to your video player (Make 
 ```
 https://raw.githubusercontent.com/emonnaja/indonesian-IPTV/refs/heads/main/index.m3u
 ```
+or
+```
+https://www.streamo.web.id/api/1/get/live/tv/playlist?format=m3u
+```
 > [!IMPORTANT]  
 > This playlist url currently in development, you cannot stream some channels now.
 
