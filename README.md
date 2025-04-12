@@ -13,7 +13,7 @@ or More channel support, additional local channels in Malaysia, higher resolutio
 > [!WARNING]  
 > You cannot currently use this URL playlist as there is a technical issue on the third-party server side until this warning is removed.
 ```
-https://www.streamo.web.id/api/1/get/live/tv/playlist?format=m3u
+https://www.streamo.web.id/api/1/get/live/tv/playlist/extended?format=m3u
 ```
 
 
