@@ -10,8 +10,6 @@ Optional channels, suitable for watching on mobile phones:
 https://raw.githubusercontent.com/emonnaja/indonesian-IPTV/refs/heads/main/index.m3u
 ```
 or More channel support, additional local channels in Malaysia, higher resolution, suitable for watching on TV or big screen:
-> [!WARNING]  
-> You cannot currently use this URL playlist as there is a technical issue on the third-party server side until this warning is removed.
 ```
 https://www.streamo.web.id/api/1/get/live/tv/playlist/extended?format=m3u
 ```
