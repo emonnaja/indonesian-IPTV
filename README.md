@@ -7,7 +7,7 @@ copy this link and paste it into your OTT Player, or to your video player (Make 
 
 Optional channels, suitable for watching on mobile phones:
 ```
-https://raw.githubusercontent.com/emonnaja/indonesian-IPTV/refs/heads/main/index.m3u
+https://raw.githubusercontent.com/emonnaja/Indonesian-IPTV/refs/heads/main/index.m3u
 ```
 or More channel support, additional local channels in Malaysia, higher resolution, suitable for watching on TV or big screen:
 ```
