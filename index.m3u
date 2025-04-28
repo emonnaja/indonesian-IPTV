@@ -12,15 +12,16 @@
 
 #Lokal FTA (ID)
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
-#EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 tvg-name="001"  tvg-id="Trans 7" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F8-Lokal FTA%2FTrans%207%20SD-FirstMedia-Chl-8.jpeg&w=1920&q=100" group-title="Lokal FTA",Trans 7
-https://d1abp075u76pbq.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streamo.web.id/api/1/get/live/tv/channel/3
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/1
 #EXTINF:-1 tvg-name="002" tvg-id="INDOSIAR" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Findosiar.jfif?alt=media&token=3ee58305-4fde-490c-8470-742c5652a957" group-title="Lokal FTA",Indosiar
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138#checkedby:iptvlister.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://streamo.web.id/api/1/get/live/tv/channel/1
 
 
 #EXTINF:-1 tvg-name="005" tvg-id="SCTV" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2Fsctv.jfif?alt=media&token=76a3b0df-822f-498e-b80c-0137449b8374" group-title="Lokal FTA",SCTV
@@ -39,11 +40,9 @@ https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=li
 https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="009" tvg-id="Trans TV" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F8-Lokal FTA%2FTrans%20TV%20SD-FirstMedia-Chl-9.jpg&w=1920&q=100" group-title="Lokal FTA",Trans TV
-https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+o="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F8-Lokal FTA%2FTrans%20TV%20SD-FirstMedia-Chl-9.jpg&w=1920&q=100" group-title="Lokal FTA",Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streamo.web.id/api/1/get/live/tv/channel/2
 
 
 #EXTINF:-1 tvg-name="010" tvg-logo="https://firebasestorage.googleapis.com/v0/b/nontontv-5f246.appspot.com/o/androidTV%2Fassets%2Ftvg-logo%2FNusantara_TV.png?alt=media&token=e468e3e0-8401-429b-abef-7868f02a5e44" group-title="Lokal FTA",Nusantara TV
