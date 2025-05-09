@@ -11,7 +11,7 @@ https://cdn.streamo.web.id/live/playlist/indonesia.m3u
 
 
 ## Be a Contributor
-Please to make sure to read the [Contribution Guide](https://https://github.com/emonnaja/Indonesian-IPTV/blob/main/CONTRIBUTING.md)
+Please to make sure to read the [Contribution Guide](https://github.com/emonnaja/Indonesian-IPTV/blob/main/CONTRIBUTING.md)
 
 
 Thank you for Everyone who has already contributed!
