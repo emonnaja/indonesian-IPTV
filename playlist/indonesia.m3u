@@ -1,0 +1,103 @@
+
+#EXTM3U x-tvg-url="https://iptvsystem.my.id/epg" refresh="3600"
+
+
+# Some tv channels use DRM, maybe the channel cannot be played (usually stuck loading) because your device does not support DRM.
+# This is a live tv playlist selected for OTT Player app only (you can find it in Play Store but i don't know is that available in App Store).
+# PLEASE DO NOT REBROADCAST IPTV STREAM OR SELL IPTV URLS.
+# You must be wondering why these new channels are so few compared to before, this is because I select channel URLs that are truly safe for your device from data theft and that are still actively broadcasting.
+
+
+
+# LOCAL SECTION
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/1
+#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/indosiar.png",INDOSIAR
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://streamo.web.id/api/1/get/live/tv/channel/1.mpd
+
+
+#EXTINF:-1 tvg-id="TransTV.IPTV" tvg-name="TransTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/transtv.png",TRANS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streamo.web.id/api/1/get/live/tv/channel/2.mpd
+
+
+#EXTINF:-1 tvg-id="Trans7.IPTV" tvg-name="Trans7.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/trans7.png",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streamo.web.id/api/1/get/live/tv/channel/3.mpd
+
+
+#EXTINF:-1 tvg-id="MDTV.IPTV" tvg-name="MDTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/mdtv.png",MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streamo.web.id/api/1/get/live/tv/channel/4.m3u8
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/5
+#EXTINF:-1 tvg-id="SCTV.IPTV" tvg-name="SCTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/sctv.png",SCTV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://streamo.web.id/api/1/get/live/tv/channel/5.mpd
+
+
+#EXTINF:-1 tvg-id="CNNIndonesia.IPTV" tvg-name="CNNIndonesia.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/cnnindonesia.png",CNN Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streamo.web.id/api/1/get/live/tv/channel/6.m3u8
+
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.IPTV" tvg-name="CNBCIndonesia.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/cnbcindonesia.png",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streamo.web.id/api/1/get/live/tv/channel/7.m3u8
+
+
+#EXTINF:-1 tvg-id="ANTV.IPTV" tvg-name="ANTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/antv.png",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streamo.web.id/api/1/get/live/tv/channel/8.mpd
+
+
+#EXTINF:-1 tvg-id="KompasTv.IPTV" tvg-name="Kompastv.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/kompastv.png",Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streamo.web.id/api/1/get/live/tv/channel/9.mpd
+
+
+#EXTINF:-1 tvg-id="TVOne.IPTV" tvg-name="TVOne.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/tvone.png",TVOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streamo.web.id/api/1/get/live/tv/channel/10.m3u8
+
+
+#EXTINF:-1 tvg-id="MetroTV.IPTV" tvg-name="MetroTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/metrotv.png",METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streamo.web.id/api/1/get/live/tv/channel/11.mpd
+
+
+#EXTINF:-1 tvg-id="JTV.IPTV" tvg-name="JTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/jtv.png",JTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streamo.web.id/api/1/get/live/tv/channel/12.mpd
+
+
+#EXTINF:-1 tvg-id="JakTV.IPTV" tvg-name="JakTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/jaktv.png",Jak TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streamo.web.id/api/1/get/live/tv/channel/13.mpd
+
+
+#EXTINF:-1 tvg-id="RCTI.IPTV" tvg-name="RCTI.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/RCTI.png",RCTI
+https://streamo.web.id/api/1/get/live/tv/channel/14.m3u8
+
+
+#EXTINF:-1 tvg-id="MNCTV.IPTV" tvg-name="MNCTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/mnctv.png",MNCTV
+https://streamo.web.id/api/1/get/live/tv/channel/15.m3u8
+
+
+#EXTINF:-1 tvg-id="GTV.IPTV" tvg-name="GTV.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/gtv.png",GTV
+https://streamo.web.id/api/1/get/live/tv/channel/16.m3u8
+
+
+#EXTINF:-1 tvg-id="INews.IPTV" tvg-name="INews.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/inews.png",INews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streamo.web.id/api/1/get/live/tv/channel/17.mpd
+
+
+#EXTINF:-1 tvg-id="Magna.IPTV" tvg-name="Magna.IPTV" group-title="Lokal" tvg-logo="https://iptvsystem.my.id/img/magna.png",Magna TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streamo.web.id/api/1/get/live/tv/channel/18.m3u8
